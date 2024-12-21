@@ -32,8 +32,9 @@ The web application is built using **React**. It provides a user-friendly interf
     ```
 
 ## Screenshots
-
-![Project Screenshot](image.png)
+<div align = center>
+   <img src ="./public/image.png" alt="sreenshot">
+</div>
 
 ## Contributing
 
